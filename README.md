@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a @KarenFragoso-desg
-- 👀 Estou interessado em Design Digital e Programação Digital
+- 👀 Estou interessado em Design Digital e Programação
 - 🌱 Atualmente estou cursando Técnico em Desenvolvimento de Sistemas e Idioma: inglês.
 - 📫 Como chegar até mim: email - kr.design68@gmail.com | Instagram: @kr_designdigital
 - 😄 Pronomes: ela/dela
