@@ -7,8 +7,9 @@
 Programa que era proibido de mexer, por conta de ser uma ferramenta de trabalho do meu padrasto. Um dia, minha mãe me pegou mexendo e falou com ele.
 Ambos me chamaram para conversar e comecei a ajudar meu pai com as artes.
 Hoje temos uma gráfica: Gráfica Copiadora Serramar.
-
-
+.
+.
+.
 - 👋 Hi, I’m @KarenFragoso-desg
 - 👀 I’m interested in Digital Design and Programming
 - 🌱 I am currently studying System Development Technician and English language.
